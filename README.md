@@ -1,24 +1,9 @@
-# vue-router-app
+## Vue Bookmarks App
 
-## Project setup
-```
-npm install
-```
+Bookmark, daha sonradan ziyaret etmek isteyeceğimiz internet siteleri kaydetmemiz anlamına gelmektedir. Vue.js ile basit bir bookmarks uygulaması yaptım.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+### Proje Nasıl Çalıştırılır?
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- Projeyi fork'ladıktan ya da indirdikten sonra projenin bulunduğu klasörde `npm install` komutu ile gerekli paketlerin yüklenmesi gerekiyor.
+- JSON server başlatmak için konsola `json-server --watch db.json` komutunu çalıştırmanız gerekiyor.
+- Yükleme tamamlandıktan sonra `npm run serve` komutu ile projeyi başlatabilirsiniz.
