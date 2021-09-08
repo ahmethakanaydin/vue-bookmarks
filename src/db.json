@@ -1,0 +1,16 @@
+{
+  "bookmarks": [
+    {
+      "title": "Vuejs Dökümantasyon",
+      "url": "https://v3.vuejs.org/",
+      "description": "The Progressive JavaScript Framework",
+      "id": 1
+    },
+    {
+      "title": "Laravel Dökümantasyon",
+      "url": "https://laravel.com/docs/8.x",
+      "description": "The PHP Framework for Web Artisans",
+      "id": 2
+    }
+  ]
+}
